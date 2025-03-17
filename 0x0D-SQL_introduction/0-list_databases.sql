@@ -1,3 +1,4 @@
---script to list all databases--
+-- DISPLAY DATABASES
+-- QUERY TO DISPLAY ALL DATABSES
+-- script to list all databases
 SHOW DATABASES;  
-
