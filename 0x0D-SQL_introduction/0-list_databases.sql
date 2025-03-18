@@ -1,3 +1,2 @@
--- DISPLAY DATABASES
--- QUERY TO DISPLAY ALL DATABSES
+--Write a script that lists all databases of your MySQL server. 
 SHOW DATABASES;
